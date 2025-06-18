@@ -21,7 +21,7 @@
 
 .image {
   width: 40%;
-  background-image: url(http://localhost:5173/src/assets/images/drawers.jpg);
+  background-image: url(https://raw.githubusercontent.com/mandeephub/Article-preview-component/refs/heads/main/Article%20preview%20component/src/assets/images/drawers.jpg);
   background-position: left center;
   background-size: cover;
 
